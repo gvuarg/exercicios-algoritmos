@@ -10,7 +10,7 @@ int main() {
     if (media >= 6.0) {
         std::cout << "Status: APROVADO! Parabens." << std::endl;
     } else {
-        std::cout << "Status: REPROVADO... Precisa estudar mais para a DP!" << std::endl;
+        std::cout << "Status: REPROVADO. Precisa estudar mais para a DP!" << std::endl;
     }
 
     return 0;
