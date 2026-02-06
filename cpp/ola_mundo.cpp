@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "Primeiro passo em C++!" << std::endl;
+    std::cout << "Olá, Mundo! Este é o meu primeiro passo em C++!" << std::endl;
     return 0;
 }
