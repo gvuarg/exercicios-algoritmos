@@ -2,7 +2,7 @@
 
 int main() {
     float nota1 = 8.5;
-    float nota2 = 4.5;
+    float nota2 = 4.25;
     float media = (nota1 + nota2) / 2;
 
     std::cout << "Media final: " << media << std::endl;
